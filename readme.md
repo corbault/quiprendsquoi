@@ -29,17 +29,9 @@ Sous forme d'un plugin Chrome, il vous suffit de le lancer sur une page et de se
 ![Alt text](images/img1.png)
 ![Alt text](images/img2.png)
 
-Le sujet peut être :
+Voici ici une video pour la transformation en API
 
-- une web api explorée (même en partie)
-- un outil ou technique lié à la performance, l'amélioration progressive, l'accessibilité
-- une technique liée aux PWA ou aux service workers
-- un outil de développement (package npm, devtool...)
+https://res.cloudinary.com/simplescraper/video/upload/q_auto/v1576758706/simplescraper-api_yepjtj.mp4
 
-Ce n'est pas une liste exhaustive, demandez en cas de doute.
-
-Plan en cas de panne d'inspiration :
-
-- Description du sujet choisi (sa définition, son but...)
-- Exemple d'utitlisation ou d'implémentation (bout de code si pertinent, capture d'écran...)
-- Conclusion : avantages, inconvénients et cas d'usage
+Avec des plugins permettant de coupler figma à de la vrai data , cet outil est un réel plus pour faire des design réaliste.
+Pour le dev il permet de rapidement mapper un site si il ne propose pas d'open data.
