@@ -1,0 +1,15 @@
+@import 'config/media.scss';
+@import 'blocs/newParty.scss';
+
+form {
+  border: 1px solid blue;
+
+  div {
+    border: 1px solid red;
+  }
+  label{
+  display: block;
+  }
+}
+
+
