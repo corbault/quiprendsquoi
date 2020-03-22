@@ -26,7 +26,8 @@ Simple scraper est un outil permettant en quelques secondes de créer un API à 
 Il permet de telecharger instantanement les données d'un site dont vous avez besoin au format JSON ou XLS.
 Sous forme d'un plugin Chrome, il vous suffit de le lancer sur une page et de selectionner les éléments que vous voulez extraire.
 
-![Alt text](images/Screenshot 2020-03-22 at 16.36.57.png) "Title")
+![Alt text](images/img1.png)
+![Alt text](images/img2.png)
 
 Le sujet peut être :
 
